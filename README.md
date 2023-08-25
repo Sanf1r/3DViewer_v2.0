@@ -2,9 +2,16 @@
 
 Implementation of 3DViewer v2.0.
 
+Tested on MacOS Big Sur 11.6.6.
+
+Made on July 08 2023 as part of my education in School 21 :)
+
+https://github.com/Sanf1r/3DViewer_v2.0/assets/100280376/7eb8d2a0-eb4b-4cce-b9be-a4beccc9ecaa
+
 ## Introduction
 
 This project implements an application for viewing 3D wireframe models in C++ in the object-oriented programming paradigm, implementing the same functions as the previously developed application in 3DViewer v1.0 project.
+In additional implements mouse control of rotate and Design patterns: momento, singleton, strategy and facade.
 
 ## Information
 
